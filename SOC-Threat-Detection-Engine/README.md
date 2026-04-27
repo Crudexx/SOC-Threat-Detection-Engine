@@ -30,3 +30,7 @@ CSV report saved in /output/alerts.csv
 - Log Analysis 
 - MITRE ATT&CK 
 - Incident Response
+
+- ## Project Screenshot
+
+![Terminal Output](screenshots/terminal-output.png)
